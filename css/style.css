@@ -1,0 +1,54 @@
+.ccontainer{
+	background-image: linear-gradient(164deg,#1b293a 44%,#4592a0 110%);
+	width: 500px;
+	height: 550px;
+	margin: 80px auto;
+}
+.ccontainer #all{
+	position: absolute;
+	background-color: #fff;
+	width: 360px;
+	height: 120px;
+	margin : 60px 75px;
+	padding: 2px;
+}
+.ccontainer #all #answer{
+	text-align: center;
+	margin : 20px 75px;
+	color: #454545;
+	font-size: 50px;
+	padding: 2px;
+}
+#btn{
+	position: absolute;
+	margin : 200px 30px;
+}
+#btn .change{
+	width: 180px;
+	height: 40px;
+	margin: 20px;
+	background-image:linear-gradient(to left  , #454545 , #ffffff);
+	outline: none;
+}
+
+
+#start{
+	background-image: linear-gradient(to bottom , rgba(9, 255, 0, 0.288) , rgb(9, 255, 91));
+	position: absolute;
+	margin : 360px 150px;
+	width: 180px;
+	height: 40px;
+	color: rgb(3, 39, 5);
+	font-size: 25px;
+	outline: none;
+}
+#inte{
+	position: absolute;
+	background-color: #fff;
+	width: 250px;
+	height: 80px;
+	margin : 425px 115px;
+	color: brown;
+	font-size: 50px;
+	text-align: center;
+}
